@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <Navigationbar/>
+      <h3 style={{color: 'red'}}>Connect the wallet to GOERLI TEST NETWORK</h3>
       <UploadInitiative/>
       <YourInitiatives/>
       <Initiatives/>
